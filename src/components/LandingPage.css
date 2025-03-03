@@ -1,0 +1,13 @@
+.landing {
+    background-image: url('C:\Users\user\Desktop\fswd\houseplant-store\houseplant-store\src\assets\image.png'); /* Path from public folder */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
